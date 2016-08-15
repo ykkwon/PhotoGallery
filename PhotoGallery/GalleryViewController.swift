@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  PhotoGalleryUnit
 //
-//  Created by YoungKil Kwon on 2016. 8. 15..
-//  Copyright © 2016년 YoungKil Kwon. All rights reserved.
+//  Created by YK Kwon on 2016. 8. 15..
+//  Copyright © 2016년 YK Kwon. All rights reserved.
 //
 // reference : https://adoptioncurve.net/archives/2013/04/creating-a-paged-photo-gallery-with-a-uicollectionview/
 

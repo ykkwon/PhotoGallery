@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  PhotoGallery
 //
-//  Created by YoungKil Kwon on 2016. 8. 15..
-//  Copyright © 2016년 YoungKil Kwon. All rights reserved.
+//  Created by YK Kwon on 2016. 8. 15..
+//  Copyright © 2016년 YK Kwon. All rights reserved.
 //
 
 import UIKit
